@@ -21,3 +21,9 @@ A. Jesse Jiryu Davis construit un framework asynchrone avec Python3 en utilisant
 Jimmy Song présente la gestion de la concurrence en Python3.5
 
 *vidéo (31min):* https://www.youtube.com/watch?v=qfY2cqjJMdw
+
+
+## Javascript
+
+#### Le guide d'airbnb
+https://github.com/airbnb/javascript
